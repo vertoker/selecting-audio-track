@@ -1,4 +1,3 @@
-import speech_recognition as sr
 from moviepy.editor import *
 from pytube import YouTube
 import numpy as np
